@@ -1,4 +1,5 @@
-# Hi, I'm Moemi, <br> a student in major of IT in Japan👩🏻‍💻
+# Hi, I'm Moemi,
+## a student in major of IT in Japan👩🏻‍💻
 
 ## My Interests
 
