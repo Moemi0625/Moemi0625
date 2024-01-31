@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Moemi's profile!
+  Welcome to Moemi's github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
