@@ -6,4 +6,4 @@
 
 # My Interests
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,java,python,ruby,spring,firebase,react,vue,next,,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,java,python,ruby,spring,firebase,react,flutter,dart,mysql,postgresql" />
